@@ -29,5 +29,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [ACA](files/ACA.md)
 * [UCG](files/UCG.md)
 * [RRL](files/RRL.md)
+* [RGMG](files/RGMG.md)
 * [GDL](files/GDL.md)
 * [HGM](files/HGM.md)
